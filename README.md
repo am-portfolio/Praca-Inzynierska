@@ -12,10 +12,10 @@ Projekt ten dotyczył algorytmów kwantyzacji obrazów wielobarwnych. Celem proj
 * **MATLAB**: Generowanie wykresów, obliczenia niektórych wskaźników jakości
 * **Adobe Photoshop**
 ## 🎓 Zdobyta bądź poszerzona wiedza
-* Umiejętność zrozumienia i implementacji algorytmów matematycznych
-* Akademickie metody statystycznej analizy zebranych danych (wykresy pudełkowe, aproksymowanie za pomocą wielomianów, tabele, itp.)
 * Algorytmy klasteryzacji danych (np. algorytm k-średnich)
 * Algorytmy interpolacji danych (metoda najbliższego sąsiada, interpolacja dwuliniowa)
 * Analiza obrazów cyfrowych w różnych przestrzeniach barw i za pomocą różnych wskaźników jakości (RGB, sRGB, CIE XYZ, RMSE, PSNR, MAE, DE76, DSCSI, HPSI)
+* Umiejętność zrozumienia i implementacji algorytmów matematycznych
+* Akademickie metody statystycznej analizy zebranych danych (wykresy pudełkowe, aproksymowanie za pomocą wielomianów, tabele, itp.)
 ## Interfejs graficzny
 ![](https://github.com/am-portfolio/Praca-Inzynierska/blob/main/GUI.PNG)
