@@ -12,7 +12,7 @@ Projekt ten został zrealizowany w 2018 roku. Dotyczył on algorytmów kwantyzac
 * **MATLAB**: Generowanie wykresów, obliczenia niektórych wskaźników jakości
 ## Zdobyta bądź poszerzona wiedza
 * Umiejętność zrozumienia i implementacji algorytmów matematycznych
-* Znajomość akademickich metod analizy zebranych danych (tabele, wykresy pudełkowe, aproksymowanie za pomocą wielomianów)
+* Akademickie metody statystycznej analizy zebranych danych (wykresy pudełkowe, aproksymowanie za pomocą wielomianów, tabele, itp.)
 * Algorytmy klasteryzacji danych (np. algorytm k-średnich)
 * Algorytmy interpolacji danych (metoda najbliższego sąsiada, interpolacja dwuliniowa)
 * Analiza obrazów cyfrowych w różnych przestrzeniach barw i za pomocą różnych wskaźników jakości (RGB, sRGB, CIE XYZ, RMSE, PSNR, MAE, DE76, DSCSI, HPSI)
