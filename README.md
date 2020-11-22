@@ -10,6 +10,7 @@ Projekt ten został zrealizowany w 2018 roku. Dotyczył on algorytmów kwantyzac
 * **C++**: Interfejs graficzny (biblioteka *SFML*), algorytmy kwantyzacji, zarządzanie obliczeniami w wielu wątkach (*std::thread, std::mutex, std::future, std:: condition_variable*)
 * **Visual Studio 2017**: Kompilacja C++, debugowanie kodu
 * **MATLAB**: Generowanie wykresów, obliczenia niektórych wskaźników jakości
+* **Adobe Photoshop**
 ## 🎓 Zdobyta bądź poszerzona wiedza
 * Umiejętność zrozumienia i implementacji algorytmów matematycznych
 * Akademickie metody statystycznej analizy zebranych danych (wykresy pudełkowe, aproksymowanie za pomocą wielomianów, tabele, itp.)
