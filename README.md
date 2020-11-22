@@ -15,8 +15,4 @@ Projekt ten został zrealizowany w 2018 roku. Dotyczył on algorytmów kwantyzac
 * [Skompilowane pliki wykonywalne – Na dysku Google]( https://drive.google.com/drive/folders/16Hysf7HhDtxV9k7uHEaMEohIIJidmaAq?usp=sharing)
 * [Wyniki w postaci wykresów – Na dysku Google]( https://drive.google.com/drive/folders/1Vtz8GABDCrWPLk_FXwrDxCHjYdSvlFe3?usp=sharing)
 ## Interfejs graficzny
-<img src="https://github.com/am-portfolio/QuantStudio/blob/main/-%20Grafiki%20do%20README/GUI.PNG" style="visible: false"/>
-
-## Przykładowe wykresy z pracy
-![](https://github.com/am-portfolio/QuantStudio/blob/main/-%20Grafiki%20do%20README/Wykres%201.PNG)
-![](https://github.com/am-portfolio/QuantStudio/blob/main/-%20Grafiki%20do%20README/Wykres%202.PNG)
+<img src="https://github.com/am-portfolio/QuantStudio/blob/main/GUI.PNG">
