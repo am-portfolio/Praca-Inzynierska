@@ -11,7 +11,7 @@
 ## Cel Pracy
 Projekt ten został zrealizowany w 2018 roku. Dotyczył on algorytmów kwantyzacji obrazów kolorowych. Celem projektu była implementacja różnych algorytmów kwantyzacji w języku C++, oraz porównanie ich pod kątem jakości otrzymywanych wyników i czasu potrzebnego na wykonanie obliczeń. W ramach projektu stworzony został również program z prostym interfejsem graficznym pozwalający określić parametry wejściowe dla algorytmów.
 ## Interfejs graficzny
-![]( https://github.com/am-portfolio/QuantStudio/blob/main/-%20Grafiki%20do%20README/GUI.PNG | width=100)
+![](https://github.com/am-portfolio/QuantStudio/blob/main/-%20Grafiki%20do%20README/GUI.PNG | width=100)
 ## Przykładowe wykresy z pracy
 ## Odnośniki
 * [Pełen tekst pracy inżynierskiej]( https://github.com/am-portfolio/QuantStudio/blob/main/AMandrella%20-%20Praca%20In%C5%BCynierska.pdf)
