@@ -7,7 +7,7 @@ Projekt ten został zrealizowany w 2018 roku. Dotyczył on algorytmów kwantyzac
 * [Wyniki w postaci wykresów (na dysku Google)]( https://drive.google.com/drive/folders/1Vtz8GABDCrWPLk_FXwrDxCHjYdSvlFe3?usp=sharing)
 
 ## 🧰 Wykorzystane technologie i narzędzia
-* **C++**: Interfejs graficzny (biblioteka *SFML*), algorytmy kwantyzacji, zarządzanie obliczeniami w wielu wątkach (*std::thread, std::mutex, std::future, std:: condition_variable*)
+* **C++17**: Interfejs graficzny (biblioteka *SFML*), algorytmy kwantyzacji, zarządzanie obliczeniami w wielu wątkach (*std::thread, std::mutex, std::future, std:: condition_variable*)
 * **Visual Studio 2017**: Kompilacja C++, debugowanie kodu
 * **MATLAB**: Generowanie wykresów, obliczenia niektórych wskaźników jakości
 * **Adobe Photoshop**
