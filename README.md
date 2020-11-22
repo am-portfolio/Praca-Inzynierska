@@ -1,8 +1,9 @@
 # Aron Mandrella – Praca Inżynierska (2018)
 ## Cel Pracy
 Projekt ten został zrealizowany w 2018 roku. Dotyczył on algorytmów kwantyzacji obrazów kolorowych. Celem projektu była implementacja różnych algorytmów kwantyzacji w języku C++, oraz porównanie ich pod kątem jakości otrzymywanych wyników i czasu potrzebnego na wykonanie obliczeń. W ramach projektu stworzony został również program z prostym interfejsem graficznym pozwalający określić parametry wejściowe dla algorytmów.
-## Wykorzystane technologie
+## Wykorzystane technologie i narzędzia
 * **C++**: Interfejs graficzny (biblioteka *SFML*), algorytmy kwantyzacji, zarządzanie obliczeniami w wielu wątkach (*std::thread, std::mutex, std::future, std:: condition_variable*)
+* **Visual Studio 2017**: Kompilacja C++, debugowanie kodu
 * **MATLAB**: Generowanie wykresów, obliczenia niektórych wskaźników jakości
 ## Zdobyta bądź poszerzona wiedza
 * Umiejętność zrozumienia i implementacji algorytmów matematycznych
