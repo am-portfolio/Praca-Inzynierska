@@ -1,11 +1,9 @@
-%**********************************************************************
-%QuantStudio - MATLAB IO Utility.
-%Author: Aron Mandrella
-%@2018
-%**********************************************************************/
+@QuantStudio - MATLAB IO Utility.
+@Author: Aron Mandrella
+@2018
 
-W tym folderze znajduj¹ siê pliki Ÿród³owe aplikacji MATLAB Tasker.
-Realizuje ona zadania zlecane przez aplikacjê QuantStudio.
-Do realizowanych zadañ zalicza siê liczenie czêœci wskaŸników oraz generowanie wykresów.
+W tym folderze znajdujÄ… siÄ™ pliki ÅºrÃ³dÅ‚owe aplikacji MATLAB Tasker.
+Realizuje ona zadania zlecane przez aplikacjÄ™ QuantStudio.
+Do realizowanych zadaÅ„ zalicza siÄ™ liczenie czÄ™Å›ci wskaÅºnikÃ³w oraz generowanie wykresÃ³w.
 
 Stworzono w MATLAB 2016a.
