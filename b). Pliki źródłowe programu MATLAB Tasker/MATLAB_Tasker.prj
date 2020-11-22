@@ -1,0 +1,173 @@
+<deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
+  <configuration build-checksum="1256100931" file="F:\PRACA INŻYNIERSKA\2. Projekty i pliki źródłowe\b). Pliki źródłowe programu MATLAB Tasker\MATLAB_Tasker.prj" location="F:\PRACA INŻYNIERSKA\2. Projekty i pliki źródłowe\b). Pliki źródłowe programu MATLAB Tasker" name="MATLAB_Tasker" preferred-package-location="F:\PRACA INŻYNIERSKA\2. Projekty i pliki źródłowe\b). Pliki źródłowe programu MATLAB Tasker\MATLAB_Tasker\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+    <param.appname>MATLAB_Tasker</param.appname>
+    <param.icon>${PROJECT_ROOT}\MATLAB_Tasker_resources\icon.ico</param.icon>
+    <param.icons>
+      <file>${PROJECT_ROOT}\MATLAB_Tasker_resources\icon_48.png</file>
+      <file>${PROJECT_ROOT}\MATLAB_Tasker_resources\icon_32.png</file>
+      <file>${PROJECT_ROOT}\MATLAB_Tasker_resources\icon_24.png</file>
+      <file>${PROJECT_ROOT}\MATLAB_Tasker_resources\icon_16.png</file>
+    </param.icons>
+    <param.version>1.0</param.version>
+    <param.authnamewatermark>Aron Mandrella</param.authnamewatermark>
+    <param.email />
+    <param.company />
+    <param.summary>Aplikacja realizująca zadania zlecane przez QuantStudio.</param.summary>
+    <param.description />
+    <param.screenshot>${PROJECT_ROOT}\assets\MATLAB_Tasker.png</param.screenshot>
+    <param.guid />
+    <param.installpath.string>\MATLAB_Tasker\</param.installpath.string>
+    <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
+    <param.logo />
+    <param.install.notes />
+    <param.target.install.notes />
+    <param.intermediate>${PROJECT_ROOT}\MATLAB_Tasker\for_testing</param.intermediate>
+    <param.files.only>${PROJECT_ROOT}\MATLAB_Tasker\for_redistribution_files_only</param.files.only>
+    <param.output>${PROJECT_ROOT}\MATLAB_Tasker\for_redistribution</param.output>
+    <param.logdir>${PROJECT_ROOT}\MATLAB_Tasker</param.logdir>
+    <param.enable.clean.build>false</param.enable.clean.build>
+    <param.user.defined.mcr.options />
+    <param.embed.ctf>true</param.embed.ctf>
+    <param.target.type>subtarget.standalone</param.target.type>
+    <param.support.packages />
+    <param.web.mcr>true</param.web.mcr>
+    <param.package.mcr>false</param.package.mcr>
+    <param.no.mcr>false</param.no.mcr>
+    <param.web.mcr.name>MyAppInstaller_web</param.web.mcr.name>
+    <param.package.mcr.name>MyAppInstaller_mcr</param.package.mcr.name>
+    <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
+    <param.windows.command.prompt>true</param.windows.command.prompt>
+    <param.create.log>false</param.create.log>
+    <param.log.file>MATLAB_Tasker.logs</param.log.file>
+    <unset>
+      <param.version />
+      <param.email />
+      <param.company />
+      <param.description />
+      <param.guid />
+      <param.installpath.string />
+      <param.installpath.combo />
+      <param.logo />
+      <param.target.install.notes />
+      <param.intermediate />
+      <param.files.only />
+      <param.output />
+      <param.logdir />
+      <param.enable.clean.build />
+      <param.user.defined.mcr.options />
+      <param.embed.ctf />
+      <param.target.type />
+      <param.support.packages />
+      <param.web.mcr />
+      <param.package.mcr />
+      <param.no.mcr />
+      <param.web.mcr.name />
+      <param.package.mcr.name />
+      <param.no.mcr.name />
+      <param.windows.command.prompt />
+      <param.create.log />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\MATLAB_Tasker.m</file>
+    </fileset.main>
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\assets\image_not_found.png</file>
+      <file>${PROJECT_ROOT}\assets\MATLAB_Tasker.png</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\createDiagram_Bar.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\createDiagram_Box.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\createDiagram_BoxAll.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\createDiagram_BoxAllTotal.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\createDiagram_Images.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\createDiagram_Plot.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\createDiagram_PlotAll.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\createDiagram_Polyfit.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\createDiagrams.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\createDiagramsLogic.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\createDiagramsSettingsFile.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\getDiagramData.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\getDiagramData_impl.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\getFormatedDiagramData.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\inputDiagramFiles.m</file>
+      <file>${PROJECT_ROOT}\functions_diagrams\inputDiagramsSettings.m</file>
+      <file>${PROJECT_ROOT}\functions_utility\cell2comma.m</file>
+      <file>${PROJECT_ROOT}\functions_utility\colorGradient.m</file>
+      <file>${PROJECT_ROOT}\functions_utility\dims2Rows.m</file>
+      <file>${PROJECT_ROOT}\functions_utility\getCell.m</file>
+      <file>${PROJECT_ROOT}\functions_utility\getStatus.m</file>
+      <file>${PROJECT_ROOT}\functions_utility\hasString.m</file>
+      <file>${PROJECT_ROOT}\functions_utility\nanResizeArray.m</file>
+      <file>${PROJECT_ROOT}\functions_utility\nanVertcat.m</file>
+      <file>${PROJECT_ROOT}\functions_utility\polyfix.m</file>
+      <file>${PROJECT_ROOT}\functions_utility\setStatus.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\DE2000\deltaE2000.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\DSCSI\changeColorSpace.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\DSCSI\cmatrix.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\DSCSI\colorspace.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\DSCSI\default_DSCSI_param.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\DSCSI\DSCSI.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\DSCSI\gauss.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\DSCSI\pad4conv.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\DSCSI\resize.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\DSCSI\separableConv.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\DSCSI\separableFilters.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\HPSI\HaarPSI.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\HPSI\HaarPSIExt.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\HPSI\HPSI.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\imageQualityMetrics_basic.m</file>
+      <file>${PROJECT_ROOT}\libs_quality_metrics\imageQualityMetrics_deltae.m</file>
+      <file>${PROJECT_ROOT}\script_createDiagrams.m</file>
+    </fileset.resources>
+    <fileset.package />
+    <fileset.depfun />
+    <build-deliverables>
+      <file location="${PROJECT_ROOT}\MATLAB_Tasker\for_testing" name="MATLAB_Tasker.exe" optional="false">F:\PRACA INŻYNIERSKA\2. Projekty i pliki źródłowe\b). Pliki źródłowe programu MATLAB Tasker\MATLAB_Tasker\for_testing\MATLAB_Tasker.exe</file>
+      <file location="${PROJECT_ROOT}\MATLAB_Tasker\for_testing" name="splash.png" optional="false">F:\PRACA INŻYNIERSKA\2. Projekty i pliki źródłowe\b). Pliki źródłowe programu MATLAB Tasker\MATLAB_Tasker\for_testing\splash.png</file>
+      <file location="${PROJECT_ROOT}\MATLAB_Tasker\for_testing" name="readme.txt" optional="true">F:\PRACA INŻYNIERSKA\2. Projekty i pliki źródłowe\b). Pliki źródłowe programu MATLAB Tasker\MATLAB_Tasker\for_testing\readme.txt</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>E:\Instalki\Software\02. Programs Folder (External)\MATLAB\R2016a</root>
+      <toolboxes>
+        <toolbox name="fixedpoint" />
+        <toolbox name="matlabcoder" />
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="embeddedcoder" />
+      </toolboxes>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>6.2</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
