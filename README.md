@@ -11,7 +11,7 @@ Projekt ten dotyczył algorytmów kwantyzacji obrazów wielobarwnych. Celem proj
 ## 🧰 Wykorzystane technologie i narzędzia
 * **C++17**: Interfejs graficzny (biblioteka *SFML*), algorytmy kwantyzacji, zarządzanie obliczeniami w wielu wątkach (*std::thread, std::mutex, std::future, std:: condition_variable*)
 * **Visual Studio 2017**: Kompilacja C++, debugowanie kodu
-* **MATLAB**: Generowanie wykresów, obliczenia niektórych wskaźników jakości
+* **MATLAB (zamiennik R)**: Generowanie wykresów, obliczenia niektórych wskaźników jakości
 * **Adobe Photoshop**
 ## 🎓 Zdobyta bądź poszerzona wiedza
 * Algorytmy klasteryzacji danych (np. algorytm k-średnich)
