@@ -1,7 +1,5 @@
 # Aron Mandrella – Praca Inżynierska (2018)
-
-## Interfejs graficzny
-![](https://github.com/am-portfolio/Praca-Inzynierska/blob/main/GUI_wide.PNG)
+![](https://github.com/am-portfolio/Praca-Magisterska/blob/main/GitHub_Thumbnail.png)
 
 ## Opis
 Projekt ten dotyczył algorytmów kwantyzacji obrazów wielobarwnych. Celem projektu była implementacja różnych algorytmów kwantyzacji w języku C++, oraz porównanie ich pod kątem jakości otrzymywanych wyników i czasu potrzebnego na wykonanie obliczeń. W ramach projektu stworzony został również program z prostym interfejsem graficznym pozwalający określić parametry wejściowe dla algorytmów.
@@ -21,3 +19,6 @@ Projekt ten dotyczył algorytmów kwantyzacji obrazów wielobarwnych. Celem proj
 * Analiza obrazów cyfrowych w różnych przestrzeniach barw i za pomocą różnych wskaźników jakości (RGB, sRGB, CIE XYZ, RMSE, PSNR, MAE, DE76, DSCSI, HPSI)
 * Umiejętność zrozumienia i implementacji algorytmów matematycznych
 * Akademickie metody statystycznej analizy zebranych danych (wykresy pudełkowe, aproksymowanie za pomocą wielomianów, tabele, itp.)
+
+## Interfejs graficzny
+![](https://github.com/am-portfolio/Praca-Inzynierska/blob/main/GUI_wide.PNG)
