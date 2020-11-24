@@ -1,12 +1,12 @@
 # Aron Mandrella – Praca Inżynierska (2018)
-[![ThumbnailPNG](https://github.com/aronmandrella/Praca-Inzynierska/blob/main/GitHub_Thumbnail.png)](https://github.com/aronmandrella/Praca-Inzynierska)
+[![ThumbnailPNG](https://github.com/aronmandrella/PracaInzynierska/blob/main/GitHub_Thumbnail.png)](https://github.com/aronmandrella/PracaInzynierska)
 
 ## Opis
 Projekt ten dotyczył algorytmów kwantyzacji obrazów wielobarwnych. Celem projektu była implementacja różnych algorytmów kwantyzacji w języku C++, oraz porównanie ich pod kątem jakości otrzymywanych wyników i czasu potrzebnego na wykonanie obliczeń. W ramach projektu stworzony został również program z prostym interfejsem graficznym pozwalający określić parametry wejściowe dla algorytmów.
 
-* [Pełen tekst pracy inżynierskiej]( https://github.com/aronmandrella/QuantStudio/blob/main/AMandrella%20-%20Praca%20In%C5%BCynierska.pdf)
+* [Pełen tekst pracy inżynierskiej]( https://github.com/aronmandrella/PracaInzynierska/blob/main/AMandrella%20-%20Praca%20In%C5%BCynierska.pdf)
 * [Wyniki w postaci wykresów (na dysku Google)]( https://drive.google.com/drive/folders/1Vtz8GABDCrWPLk_FXwrDxCHjYdSvlFe3?usp=sharing)
-* [💾 Program do pobrania (Windows 10)](https://github.com/aronmandrella/Praca-Inzynierska/releases/tag/1.0)
+* [💾 Program do pobrania (Windows 10)](https://github.com/aronmandrella/PracaInzynierska/releases/tag/1.0)
 
 ## 🧰 Wykorzystane technologie i narzędzia
 * **C++17**: Interfejs graficzny (biblioteka *SFML*), algorytmy kwantyzacji, zarządzanie obliczeniami w wielu wątkach (*std::thread, std::mutex, std::future, std:: condition_variable*)
@@ -21,4 +21,4 @@ Projekt ten dotyczył algorytmów kwantyzacji obrazów wielobarwnych. Celem proj
 * Akademickie metody statystycznej analizy zebranych danych (wykresy pudełkowe, aproksymowanie za pomocą wielomianów, tabele, itp.)
 
 ## Interfejs graficzny
-![GUI-GIF](https://github.com/aronmandrella/Praca-Inzynierska/blob/main/GUI_wide.PNG)
+![GUI-GIF](https://github.com/aronmandrella/PracaInzynierska/blob/main/GUI_wide.PNG)
