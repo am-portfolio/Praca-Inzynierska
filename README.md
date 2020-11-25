@@ -7,7 +7,7 @@
 ## Opis
 Projekt ten dotyczył algorytmów kwantyzacji obrazów wielobarwnych. Celem projektu była implementacja różnych algorytmów kwantyzacji w języku C++, oraz porównanie ich pod kątem jakości otrzymywanych wyników i czasu potrzebnego na wykonanie obliczeń. W ramach projektu stworzony został również program z prostym interfejsem graficznym pozwalający określić parametry wejściowe dla algorytmów.
 
-[Pełen tekst pracy inżynierskiej]( https://github.com/aronmandrella/PracaInzynierska/blob/main/AMandrella%20-%20Praca%20In%C5%BCynierska.pdf)
+[Pełen tekst pracy inżynierskiej](https://github.com/aronmandrella/PracaInzynierska/raw/main/AMandrella%20-%20Praca%20In%C5%BCynierska.pdf)
 
 [Wyniki w postaci wykresów (na dysku Google)]( https://drive.google.com/drive/folders/1Vtz8GABDCrWPLk_FXwrDxCHjYdSvlFe3?usp=sharing)
 
